@@ -4,14 +4,8 @@ Simple project in the Maximilian course.
 
 I Hope you Like this Project❤!
 ## ScreenShots
-![Screenshot (301)](https://user-images.githubusercontent.com/91388754/153895676-ec09b17a-4f64-4d23-ad89-f6f2b535ab20.png)
-![Screenshot (302)](https://user-images.githubusercontent.com/91388754/153895703-f1ff3b52-3b52-46f0-b98f-78a956131287.png)
-![Screenshot (303)](https://user-images.githubusercontent.com/91388754/153895726-8bd49e99-2a22-4af4-9cf6-d336d83c23bf.png)
-![Screenshot (305)](https://user-images.githubusercontent.com/91388754/153895747-f4838587-90d7-4cb5-868d-8c301b6b76d3.png)
-![Screenshot (306)](https://user-images.githubusercontent.com/91388754/153895773-08beeff4-fc2c-445d-a0a5-def313a56493.png)
-![Screenshot (308)](https://user-images.githubusercontent.com/91388754/153895794-30dfe8ea-569b-4a54-8b23-d7091e33dbc4.png)
-![Screenshot (309)](https://user-images.githubusercontent.com/91388754/153895819-f3670642-953d-4aa8-ae22-221d63cff08d.png)
-![Screenshot (310)](https://user-images.githubusercontent.com/91388754/153895844-70449a26-9857-411a-bb61-db3c7cbad462.png)
+![1](https://user-images.githubusercontent.com/91388754/155275915-6a86911c-e8e8-4e7f-9ac1-0b26951dc994.png)
+![2](https://user-images.githubusercontent.com/91388754/155277077-dba8bc89-8e02-4443-ae4f-b96189494ed9.png)
 
 # ⚠️ Essential Packages 
 * simple_animations: ^4.0.1
