@@ -1,6 +1,6 @@
 # Foody Application using Flutter
 ## Description
-Simple project in the Maximilian course
+Simple project in the Maximilian course.
 
 I Hope you Like this Project❤!
 ## ScreenShots
